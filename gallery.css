@@ -1,0 +1,8 @@
+main {
+  flex-direction: column;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
